@@ -22,7 +22,7 @@ Frontend Developer — responsible for the full redesign and rebuild.
 | Next.js | Frontend framework |
 | React | UI components |
 | CSS Modules | Styling |
-| Vercel | Deployment |
+|Axxess cPanel | Hosting & Deployment |
 
 ## Screenshots
 
